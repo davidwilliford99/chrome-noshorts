@@ -37,6 +37,8 @@ function hideYoutubeShorts() {
   });
 }
 
+
+
 // main loop
 hideYoutubeShorts();
 
